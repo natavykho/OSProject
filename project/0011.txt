@@ -1,0 +1,8 @@
+You decide to go home and work on some other assignments. Once you have those finished, you remember about the project. Do you start working on it or leave it for tomorrow?
+
+   Start Project   Leave it 
+        |            |
+        V            V
+
+
+

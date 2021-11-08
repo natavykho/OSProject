@@ -1,0 +1,8 @@
+You decide to go to a coffee shop to get some work done and catch up with a friend. Do you spend the entire time talking or work on your assignments also?
+
+       Talk         Work
+        |            |
+        V            V
+
+
+

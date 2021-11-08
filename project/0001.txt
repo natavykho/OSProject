@@ -1,0 +1,8 @@
+You looked up a video but struggle to pay attention since you are so tired. Then you end up oversleeping and being late for class! You are only able to finish half the exam and fail it! Do you apologize to your professor and ask for extra credit or do you drop the class?
+
+   Extra Credit   Drop Class
+        |            |
+        V            V
+
+
+

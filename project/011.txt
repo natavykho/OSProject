@@ -1,0 +1,8 @@
+You decided to skip your next class but then regret it when you find out there is a new group project! Now you are stuck working alone with a topic you don't like. Do you put in the extra work to get a good grade or do you slowly work on it without as much effort?
+
+   Lots work   Less work
+        |            |
+        V            V
+
+
+

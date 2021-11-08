@@ -1,0 +1,11 @@
+You start studying the material for the exam but don't understand it very well. Do you give up and go to sleep or try to look up some YouTube video on the topic?
+            
+            
+       Sleep        YouTube
+        |            |
+        V            V
+
+
+
+            
+            

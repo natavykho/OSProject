@@ -1,0 +1,9 @@
+You work on the project and get many of the requirements finished. At this rate you will bring your grade up and pass the class! Do you schedule some time to work on it next week or decide to plan as you go?
+             
+
+      Schedule   Plan later
+        |            |
+        V            V
+
+
+

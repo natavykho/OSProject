@@ -1,0 +1,8 @@
+You decide to go home but on the way, you run into a bit traffic jam! You get home late. Do you work on the assignments or leave it for tomorrow?
+
+       Work       Do Tomorrow
+        |            |
+        V            V
+
+
+

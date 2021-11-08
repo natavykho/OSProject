@@ -1,0 +1,7 @@
+You went to class and the professor assigns a new project. It's good you came to class because now you pick a group to work with and start planning the project. After class, your friend asks if you want to go to a cafe and study. Do you go with your friend or go home?
+ 
+      Cafe         Home
+        |            |
+        V            V
+
+

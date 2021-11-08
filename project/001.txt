@@ -1,0 +1,9 @@
+You decided to go to sleep and hope for the best on the exam. You take the exam the next morning and end up with a D+. You have a project to work on for your next class. Do you work on it or go home. 
+             
+
+       Project    go home
+        |            |
+        V            V
+
+
+

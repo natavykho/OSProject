@@ -1,0 +1,8 @@
+You decided to go to sleep and you end up with a C+ on the exam. For the next exam, do you study more efficiently or do you not care too much about it at this point?
+
+     Study      Don't care
+        |            |
+        V            V
+
+
+

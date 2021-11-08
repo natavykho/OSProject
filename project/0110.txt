@@ -1,0 +1,8 @@
+You put a lot of work into this project and managed to get a good grade when you turned it in. However, because of all the time spent on the project, your grades in the other classes have gotten lower. Your professor offers extra credit. Do you take it or no?
+
+  Extra Credit     No Extra Credit
+        |            |
+        V            V
+
+
+

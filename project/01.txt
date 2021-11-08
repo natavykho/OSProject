@@ -1,0 +1,8 @@
+You stayed home and studied for your exam. The next day you pass it easily. Do you go to your next class or decide to skip it?
+
+
+       Class        Skip
+        |            |
+        V            V
+
+

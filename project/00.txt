@@ -1,0 +1,8 @@
+You decided to go out with your friends and had lots of fun. You get home at 1am and are very tired. Do you study for the exam or go to sleep?
+
+       Study        Sleep
+        |            |
+        V            V
+
+
+
